@@ -1,0 +1,32 @@
+* {
+    font-family: Arial;
+}
+#content {
+    width: 70%;
+    background-color: lavender;
+    margin: auto;
+}
+.smallBoxes {
+    width: 40%;
+    background-color: lightcoral;
+    margin: 10px;
+    text-align: center;
+
+}
+.bigBox {
+    display: flex;
+    justify-content: space-evenly;
+}
+h1 {
+    text-align: center;
+}
+.smallBoxes img {
+    width: 100%;
+    object-fit: contain;
+}
+#Goober {
+    transform: scaleX(-1);
+}
+#Gobber{
+    filter: invert(1);
+}

@@ -1,0 +1,32 @@
+ul {
+    border: solid black 1px;
+    margin: 10px 500px;
+    padding: 10px;
+    background-color: lime;
+    text-align: center;
+}
+li {
+    display: inline-flex;
+    text-align: center;
+    padding: 0px 100px 0px 100px;
+}
+.header {
+    text-align: center;
+}
+.paragraph {
+    border: solid black 1px;
+    margin: 10px 500px;
+    padding: 10px 10px 30px 10px;
+}
+img {
+    float: left;
+    width: 100px;
+    margin: 0px 10px 0px 10px;
+}
+p {
+    display: inline;
+    font-size: 25px;
+}
+*{
+    font-family: Arial;
+}
