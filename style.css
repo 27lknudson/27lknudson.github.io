@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+#content {
+    background-color: lightcoral;
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+    border-radius: 30px;
+}
+#bigContainer {
+    background-color: rgb(243, 158, 158);
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    border-radius: 10px;
+}
+.smallBox {
+    border: solid black 1px;
+    margin: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.bigBox {
+    border: solid black 1px;
+    margin: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.allBoxes {
+    box-shadow: 5px 5px 1px lightcoral;
+    border-radius: 20px;
+}
